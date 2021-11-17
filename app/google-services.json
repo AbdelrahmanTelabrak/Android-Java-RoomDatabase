@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053538080093",
+    "project_id": "tasks-app-a5b2e",
+    "storage_bucket": "tasks-app-a5b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053538080093:android:e5336bc083e3c687d904b4",
+        "android_client_info": {
+          "package_name": "com.example.roomdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053538080093-7fqfm0k3qkll114lfik95lliurqn0gto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqb4moz6WkCuGNYfNkjGM3alefc4geF5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053538080093-7fqfm0k3qkll114lfik95lliurqn0gto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
